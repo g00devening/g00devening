@@ -4,8 +4,8 @@
 </head>
 <body>
     <div id="header" align="center">
-        <h1>Hi there, g00devening</h1>
-        <h3>Applied Mathematics and Computer Science student</h3>
+        <h1>Hi there, i'm g00devening</h1>
+        <h3>Applied Mathematics and Computer Science Student</h3>
       <div id="socials" align="center">
         <a href="https://t.me/emeraldima">
           <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
